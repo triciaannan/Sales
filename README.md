@@ -1,1 +1,1 @@
-
+I have analyzed sales data from a superstore from 2014 to 2017. The data includes information about the products sold, the prices, and the dates of the sales. I have summarized the results of my analysis in this report.
